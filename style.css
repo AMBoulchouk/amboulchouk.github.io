@@ -1,5 +1,9 @@
+* {
+    font-family: Nunito;
+}
+
 .header {
-    background-image: url(./img/20180213_150626.jpg);
+    background-image: url(https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_960_720.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -76,3 +80,26 @@
 .portfolio-container {
     padding: 30px 0;
 }
+
+
+/*footer*/
+
+.page-footer {
+    background-image: url(https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_960_720.jpg);
+}
+
+.footer-copyright{
+    background-color: rgba(0,0,0,0.2) !important;
+}
+
+#footer-text {
+    color: white;
+}
+
+/*nunito fuente*/
+
+h1 { font-family: Nunito; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; }
+h3 { font-family: Nunito; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } 
+p { font-family: Nunito; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } 
+blockquote { font-family: Nunito; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } 
+pre { font-family: Nunito; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5667px; }
