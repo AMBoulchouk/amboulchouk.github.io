@@ -20,6 +20,27 @@
     align-items: center;
 }
 
+.portfolio-a {
+    text-decoration: none;
+    color: white !important;
+}
+.portfolio-a:hover {
+    text-decoration: none;
+    color: white !important;
+}
+.portfolio-a:visited {
+    text-decoration: none;
+    color: white !important;
+}
+.portfolio-a:link {
+    text-decoration: none;  
+    color: white !important;
+}
+.portfolio-a:active {
+    text-decoration: none;  
+    color: white !important;
+}
+
 .inicio-wrapper {
     text-align: center;
     padding: 100px;
