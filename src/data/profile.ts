@@ -25,7 +25,7 @@ export const profile: Profile = {
   location: "Córdoba, Argentina",
   email: "amboulchouk@outlook.com",
   github: "https://github.com/AMBoulchouk",
-  linkedin: "https://www.linkedin.com/in/alexmboulchouk/",
+  linkedin: "https://www.linkedin.com/in/amboulchouk/",
   role: "Tech Lead · Full Stack Developer · Software Consultant",
   tagline: "Building software, teams and products.",
   summary: "Full Stack Developer con más de 7 años de experiencia creando soluciones web, sistemas empresariales y plataformas a medida para organizaciones públicas y privadas. Especializado en Vue, Laravel, FastAPI, PostgreSQL y arquitecturas modernas. Actualmente se desempeña como Tech Lead, liderando equipos de desarrollo, participando en decisiones de arquitectura, procesos técnicos y estrategia de producto. También cuenta con experiencia como instructor en Digital House e INTI, formando desarrolladores en tecnologías Full Stack.",
